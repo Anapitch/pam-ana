@@ -12,7 +12,7 @@ const routes = [{
     element: < Main />,
 },
 {
-    path: "/commath-pj",
+    path: "/pam-ana",
     element: < Main />,
 },
 {
